@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratorio4</string>
+    <string name="title_activity_my_prof">MyProf</string>
+    <string name="title_activity_config_prof">ConfigProf</string>
+    <string name="title_activity_emergency_prof">EmergencyProf</string>
+    <string name="title_activity_info_campus">InfoCampus</string>
+</resources>
